@@ -4692,7 +4692,7 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1370564530}
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: 0, y: 4.0026, z: 0}
+  m_LocalPosition: {x: 0, y: 4.02, z: 0.05}
   m_LocalScale: {x: 1.9717427, y: 2.3889635, z: 1.9717427}
   m_Children:
   - {fileID: 1906387840}
@@ -4722,11 +4722,11 @@ MonoBehaviour:
   whatIsGround:
     serializedVersion: 2
     m_Bits: 1
-  counterMovement: 0.175
+  counterMovement: 1
   maxSlopeAngle: 35
   slideForce: 400
   slideCounterMovement: 0.2
-  jumpForce: 550
+  jumpForce: 350
 --- !u!1 &1406193219
 GameObject:
   m_ObjectHideFlags: 0
