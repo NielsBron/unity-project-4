@@ -4856,7 +4856,7 @@ MonoBehaviour:
   maxSlopeAngle: 35
   slideForce: 400
   slideCounterMovement: 0.2
-  jumpForce: 400
+  jumpForce: 425
 --- !u!1 &1406193219
 GameObject:
   m_ObjectHideFlags: 0
